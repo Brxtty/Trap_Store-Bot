@@ -3,7 +3,7 @@ const client = new Client({ intents: [GatewayIntentBits.Guilds] });
 const chalk = require('chalk-v2');
 
 // Bot-Token
-const token = 'MTQxNTc1MDM5MTc3MzAwNzk1Mg.Ginv1Q.98RT1J9CUOZpcXcir5vaKoy7iAHwgCq0KgPDdQ';
+const token = 'HERE_YOUR_TOKEN';
 
 client.on('ready', async (readyClient) => {
     console.log(chalk.italic.hex('#ff0000').italic('[LRP-SYSTEM]'), chalk.italic.hex('#ffffff')('- [by Brxtty] |'), chalk.bold.hex('#00BFFF')('Der Bot ist erfolgreich gestartet.'), chalk.reset());
