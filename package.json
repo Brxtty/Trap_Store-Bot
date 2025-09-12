@@ -1,0 +1,10 @@
+{
+    "name": "trap_store-bot",
+    "version": "1.0.0",
+    "main": "index.js",
+    "author": "Brxtty",
+    "dependencies": {
+        "chalk-v2": "^1.0.2",
+        "discord.js": "^14.14.1"
+    }
+}
