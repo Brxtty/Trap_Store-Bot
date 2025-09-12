@@ -2,7 +2,10 @@
 
 # How to use
 
-first type in your cmd promt
+Go in the index.js an put your Token of your Bot
+
+
+then type in your cmd promt
 ```
 npm i .
 ```
