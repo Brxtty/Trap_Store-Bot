@@ -5,6 +5,8 @@
     "author": "Brxtty",
     "dependencies": {
         "chalk-v2": "^1.0.2",
-        "discord.js": "^14.14.1"
+        "deploy": "^1.0.3",
+        "discord.js": "^14.14.1",
+        "dotenv": "^16.6.1"
     }
 }
