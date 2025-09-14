@@ -2,7 +2,7 @@
 
 # How to use
 
-Go in the index.js an put your Token of your Bot
+Go in the .env an put your Token of your Bot
 
 
 then type in your cmd promt
